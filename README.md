@@ -3,7 +3,7 @@
 ![Oasis Infobyte Internship](https://img.shields.io/badge/Internship-Web%20Development-blue?style=for-the-badge&logo=html5)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-This repository contains the projects completed as part of the **Web Development and Designing Internship** at [Oasis Infobyte](https://oasisinfobyte.com/). This internship program focuses on developing practical web development skills by completing hands-on, real-world tasks. The projects range from building responsive web interfaces to adding dynamic functionality using JavaScript.
+This repository contains the projects completed as part of the **Web Development and Design Internship** at [Oasis Infobyte](https://oasisinfobyte.com/). This internship program focuses on developing practical web development skills by completing hands-on, real-world tasks. The projects range from building responsive web interfaces to adding dynamic functionality using JavaScript.
 
 ## 🌟 Key Learnings and Skills Acquired
 - **Frontend Core:** Writing clean, semantic HTML5 and modern CSS3 for structured page layouts.
